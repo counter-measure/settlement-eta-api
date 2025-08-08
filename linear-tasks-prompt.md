@@ -1,7 +1,12 @@
 # Linear Tasks
+Refer to the file project_metadata.json for the project title and the teams that will be implementing this project. Update the fields below with this information.
 
 PROJECT_NAME = <example>
-PROJECT_ID = <example>
+PROJECT_ID = <example> // Lookup using the PROJECT NAME using Linear MCP
+TEAMS = <teams>
+
+## MCP
+Connect to the Linear MCP.
 
 ## GOAL 
 Create Linear Tasks for Each task in tasks.json.
@@ -11,6 +16,7 @@ Use Claude or Taskmaster to create a tasks.json file based on your prd.md, tech_
 Then use Claude, Claude Code or Cursor to complete the following instructions.
 
 ## Instructions
+- Connect to the Linear MCP and carry out the following tasks
 - Get the Linear Project Id for project PROJECT_NAME and store it in PROJECT_ID 
 - Get the Team called "Engineering" and assign all issues to this Team
 - Create a Linear Issue for each task in tasks.json
