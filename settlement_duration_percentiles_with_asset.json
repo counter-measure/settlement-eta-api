@@ -1,0 +1,1051 @@
+{
+  "arbitrum": {
+    "avalanche_c": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 107.5,
+          "settlement_duration_minutes_p75": 321.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "base": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.75,
+          "settlement_duration_minutes_p75": 14.75,
+          "sample_size": 12
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 23.0,
+          "sample_size": 41
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 93.0,
+          "sample_size": 41
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p75": 102.5,
+          "sample_size": 99
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 209
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 65
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 13.75,
+          "settlement_duration_minutes_p75": 25.0,
+          "sample_size": 80
+        },
+        "300000-400000": {
+          "settlement_duration_minutes_p25": 17.0,
+          "settlement_duration_minutes_p75": 24.75,
+          "sample_size": 18
+        },
+        "400000-500000": {
+          "settlement_duration_minutes_p25": 9.75,
+          "settlement_duration_minutes_p75": 19.0,
+          "sample_size": 4
+        },
+        "700000-1000000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 22.5,
+          "sample_size": 3
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 57.0,
+          "settlement_duration_minutes_p75": 184.0,
+          "sample_size": 13
+        }
+      }
+    },
+    "optimism": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p75": 230.0,
+          "sample_size": 6
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p75": 13.5,
+          "sample_size": 10
+        }
+      }
+    },
+    "polygon": {
+      "USDT": {
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 165.0,
+          "settlement_duration_minutes_p75": 283.0,
+          "sample_size": 3
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 59.0,
+          "settlement_duration_minutes_p75": 225.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "solana": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 25.25,
+          "sample_size": 6
+        }
+      }
+    },
+    "unichain": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p75": 8.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "zircuit": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 33.0,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "base": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.75,
+          "settlement_duration_minutes_p75": 48.5,
+          "sample_size": 8
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 8.0,
+          "sample_size": 37
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p75": 18.25,
+          "sample_size": 16
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 21
+        }
+      }
+    },
+    "bnb": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.5,
+          "settlement_duration_minutes_p75": 75.5,
+          "sample_size": 7
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 21.25,
+          "sample_size": 60
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 26.0,
+          "sample_size": 35
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 61.0,
+          "sample_size": 24
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 18.0,
+          "sample_size": 178
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 20.0,
+          "sample_size": 34
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 23.0,
+          "sample_size": 52
+        },
+        "300000-400000": {
+          "settlement_duration_minutes_p25": 24.0,
+          "settlement_duration_minutes_p75": 42.5,
+          "sample_size": 3
+        },
+        "400000-500000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 26.0,
+          "sample_size": 5
+        }
+      },
+      "cbBTC": {
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 33.5,
+          "settlement_duration_minutes_p75": 171.0,
+          "sample_size": 19
+        }
+      },
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 13
+        }
+      }
+    },
+    "optimism": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 7.25,
+          "sample_size": 4
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 11.5,
+          "sample_size": 63
+        }
+      }
+    },
+    "polygon": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 22.5,
+          "settlement_duration_minutes_p75": 38.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "unichain": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 3
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 25.5,
+          "settlement_duration_minutes_p75": 29.5,
+          "sample_size": 3
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 14.5,
+          "settlement_duration_minutes_p75": 47.75,
+          "sample_size": 10
+        }
+      }
+    }
+  },
+  "berachain": {
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.75,
+          "settlement_duration_minutes_p75": 71.75,
+          "sample_size": 8
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 10
+        }
+      }
+    }
+  },
+  "blast": {
+    "base": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 7.5,
+          "sample_size": 6
+        }
+      }
+    },
+    "ethereum": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 158
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p75": 32.0,
+          "sample_size": 5
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 19.25,
+          "sample_size": 4
+        }
+      }
+    }
+  },
+  "bnb": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 8.0,
+          "sample_size": 19
+        }
+      },
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.25,
+          "settlement_duration_minutes_p75": 60.0,
+          "sample_size": 18
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 59.5,
+          "settlement_duration_minutes_p75": 238.0,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 13.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 12
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 17.0,
+          "sample_size": 22
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 18.0,
+          "sample_size": 141
+        }
+      },
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.5,
+          "settlement_duration_minutes_p75": 119.5,
+          "sample_size": 27
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 75
+        }
+      },
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p75": 1.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "optimism": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p75": 18.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "polygon": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 44.25,
+          "settlement_duration_minutes_p75": 120.5,
+          "sample_size": 10
+        }
+      }
+    },
+    "zircuit": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 25.75,
+          "settlement_duration_minutes_p75": 200.0,
+          "sample_size": 6
+        }
+      }
+    }
+  },
+  "ethereum": {
+    "arbitrum": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.5,
+          "settlement_duration_minutes_p75": 77.25,
+          "sample_size": 4
+        }
+      },
+      "WETH": {
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 201.0,
+          "sample_size": 5
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 13
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 11.0,
+          "settlement_duration_minutes_p75": 138.5,
+          "sample_size": 11
+        }
+      },
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 6
+        }
+      }
+    },
+    "bnb": {
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 57.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "ronin": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 100.5,
+          "settlement_duration_minutes_p75": 251.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "unichain": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.0,
+          "settlement_duration_minutes_p75": 34.0,
+          "sample_size": 5
+        }
+      }
+    }
+  },
+  "ink": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 28.5,
+          "settlement_duration_minutes_p75": 60.5,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 56.0,
+          "sample_size": 21
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 9.5,
+          "sample_size": 27
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 18.25,
+          "sample_size": 8
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.5,
+          "settlement_duration_minutes_p75": 23.5,
+          "sample_size": 47
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 12.5,
+          "settlement_duration_minutes_p75": 14.75,
+          "sample_size": 6
+        }
+      }
+    },
+    "optimism": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.25,
+          "settlement_duration_minutes_p75": 11.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "sonic": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 183.0,
+          "settlement_duration_minutes_p75": 254.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "linea": {
+    "arbitrum": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 12.0,
+          "sample_size": 88
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p75": 16.5,
+          "sample_size": 15
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 20.0,
+          "sample_size": 8
+        }
+      }
+    },
+    "ethereum": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 95.0,
+          "sample_size": 9
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.75,
+          "settlement_duration_minutes_p75": 16.25,
+          "sample_size": 12
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 22.5,
+          "settlement_duration_minutes_p75": 33.0,
+          "sample_size": 3
+        },
+        "300000-400000": {
+          "settlement_duration_minutes_p25": 27.0,
+          "settlement_duration_minutes_p75": 31.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "optimism": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 25.0,
+          "sample_size": 27
+        }
+      }
+    },
+    "zksync": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 13.0,
+          "sample_size": 14
+        }
+      }
+    }
+  },
+  "optimism": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 8.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 30.5,
+          "sample_size": 3
+        }
+      },
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 127.0,
+          "settlement_duration_minutes_p75": 229.0,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 75
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 24.0,
+          "sample_size": 41
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p75": 49.5,
+          "sample_size": 11
+        }
+      },
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.5,
+          "settlement_duration_minutes_p75": 81.25,
+          "sample_size": 16
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.25,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 154
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 12.5,
+          "settlement_duration_minutes_p75": 21.5,
+          "sample_size": 71
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 40
+        },
+        "300000-400000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 19.0,
+          "sample_size": 3
+        },
+        "400000-500000": {
+          "settlement_duration_minutes_p25": 12.5,
+          "settlement_duration_minutes_p75": 17.0,
+          "sample_size": 4
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 162.0,
+          "settlement_duration_minutes_p75": 295.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "optimism": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 14
+        }
+      }
+    }
+  },
+  "polygon": {
+    "arbitrum": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.25,
+          "settlement_duration_minutes_p75": 7.0,
+          "sample_size": 10
+        }
+      }
+    },
+    "base": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 12.5,
+          "sample_size": 119
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p75": 30.75,
+          "sample_size": 14
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 15.5,
+          "settlement_duration_minutes_p75": 61.0,
+          "sample_size": 3
+        }
+      },
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 92.0,
+          "sample_size": 54
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p75": 37.75,
+          "sample_size": 16
+        }
+      }
+    },
+    "optimism": {
+      "USDT": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 246.25,
+          "settlement_duration_minutes_p75": 289.5,
+          "sample_size": 4
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p75": 17.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "solana": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p75": 11.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 103.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.75,
+          "settlement_duration_minutes_p75": 33.25,
+          "sample_size": 4
+        }
+      }
+    }
+  },
+  "unichain": {
+    "arbitrum": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 12.75,
+          "sample_size": 8
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 7
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 6.75,
+          "settlement_duration_minutes_p75": 11.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "base": {
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p75": 31.5,
+          "sample_size": 11
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p75": 19.5,
+          "sample_size": 18
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 80.5,
+          "sample_size": 4
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p75": 51.0,
+          "sample_size": 15
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 146
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 23.0,
+          "sample_size": 143
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p75": 23.0,
+          "sample_size": 158
+        },
+        "300000-400000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 23.25,
+          "sample_size": 32
+        },
+        "400000-500000": {
+          "settlement_duration_minutes_p25": 14.5,
+          "settlement_duration_minutes_p75": 15.5,
+          "sample_size": 7
+        },
+        "500000-700000": {
+          "settlement_duration_minutes_p25": 18.0,
+          "settlement_duration_minutes_p75": 36.0,
+          "sample_size": 9
+        },
+        "700000-1000000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p75": 47.0,
+          "sample_size": 9
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 35.5,
+          "settlement_duration_minutes_p75": 63.0,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "zircuit": {
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p75": 7.0,
+          "sample_size": 3
+        }
+      },
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.25,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 6
+        }
+      }
+    },
+    "bnb": {
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p75": 3.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 47.5,
+          "sample_size": 7
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.25,
+          "settlement_duration_minutes_p75": 12.75,
+          "sample_size": 6
+        }
+      },
+      "xPufETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 42
+        }
+      }
+    }
+  },
+  "zksync": {
+    "arbitrum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 13.25,
+          "sample_size": 18
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 10.75,
+          "sample_size": 58
+        }
+      }
+    },
+    "base": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p75": 18.0,
+          "sample_size": 34
+        }
+      }
+    },
+    "ethereum": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p75": 25.75,
+          "sample_size": 24
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.0,
+          "settlement_duration_minutes_p75": 18.0,
+          "sample_size": 367
+        },
+        "50000-100000": {
+          "settlement_duration_minutes_p25": 17.0,
+          "settlement_duration_minutes_p75": 24.0,
+          "sample_size": 12
+        },
+        "100000-300000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p75": 28.5,
+          "sample_size": 79
+        }
+      }
+    },
+    "optimism": {
+      "USDC": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p75": 41.0,
+          "sample_size": 3
+        }
+      },
+      "WETH": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.75,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 24
+        }
+      }
+    }
+  }
+}

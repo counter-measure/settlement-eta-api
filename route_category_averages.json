@@ -1,0 +1,223 @@
+{
+  "L1_to_L1": {
+    "USDC": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 13.0,
+        "settlement_duration_minutes_p75": 18.0,
+        "sample_size": 141,
+        "confidence": "high",
+        "description": "Average L1 to L1 USDC settlement times based on ethereum->bnb, ethereum->solana routes"
+      },
+      "50000-100000": {
+        "settlement_duration_minutes_p25": 15.5,
+        "settlement_duration_minutes_p75": 61.0,
+        "sample_size": 3,
+        "confidence": "low",
+        "description": "Limited L1 to L1 USDC data for this amount range"
+      }
+    },
+    "WETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 13.0,
+        "settlement_duration_minutes_p75": 22.0,
+        "sample_size": 75,
+        "confidence": "high",
+        "description": "Average L1 to L1 WETH settlement times based on ethereum->bnb route"
+      }
+    },
+    "USDT": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 13.5,
+        "settlement_duration_minutes_p75": 119.5,
+        "sample_size": 27,
+        "confidence": "medium",
+        "description": "Average L1 to L1 USDT settlement times based on ethereum->bnb route"
+      }
+    },
+    "xPufETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 6.0,
+        "settlement_duration_minutes_p75": 57.0,
+        "sample_size": 4,
+        "confidence": "low",
+        "description": "Average L1 to L1 xPufETH settlement times based on ethereum->bnb route"
+      }
+    }
+  },
+  "L1_to_L2": {
+    "USDT": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 9.5,
+        "settlement_duration_minutes_p75": 77.25,
+        "sample_size": 4,
+        "confidence": "low",
+        "description": "Average L1 to L2 USDT settlement times based on ethereum->arbitrum route"
+      }
+    },
+    "WETH": {
+      "50000-100000": {
+        "settlement_duration_minutes_p25": 7.5,
+        "settlement_duration_minutes_p75": 11.0,
+        "sample_size": 3,
+        "confidence": "low",
+        "description": "Average L1 to L2 WETH settlement times based on ethereum->arbitrum route"
+      }
+    },
+    "xPufETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 6.0,
+        "settlement_duration_minutes_p75": 6.0,
+        "sample_size": 6,
+        "confidence": "medium",
+        "description": "Average L1 to L2 xPufETH settlement times based on ethereum->base route"
+      }
+    }
+  },
+  "L2_to_L1": {
+    "USDC": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 13.0,
+        "settlement_duration_minutes_p75": 21.25,
+        "sample_size": 60,
+        "confidence": "high",
+        "description": "Average L2 to L1 USDC settlement times based on base->ethereum, arbitrum->ethereum routes"
+      },
+      "50000-100000": {
+        "settlement_duration_minutes_p25": 13.0,
+        "settlement_duration_minutes_p75": 26.0,
+        "sample_size": 35,
+        "confidence": "high",
+        "description": "Average L2 to L1 USDC settlement times for medium amounts"
+      },
+      "100000-300000": {
+        "settlement_duration_minutes_p25": 14.0,
+        "settlement_duration_minutes_p75": 61.0,
+        "sample_size": 24,
+        "confidence": "medium",
+        "description": "Average L2 to L1 USDC settlement times for large amounts"
+      }
+    },
+    "WETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 12.0,
+        "settlement_duration_minutes_p75": 18.0,
+        "sample_size": 178,
+        "confidence": "high",
+        "description": "Average L2 to L1 WETH settlement times based on arbitrum->ethereum, base->ethereum, optimism->ethereum, zksync->ethereum routes"
+      },
+      "50000-100000": {
+        "settlement_duration_minutes_p25": 12.0,
+        "settlement_duration_minutes_p75": 20.0,
+        "sample_size": 34,
+        "confidence": "high",
+        "description": "Average L2 to L1 WETH settlement times for medium amounts"
+      },
+      "100000-300000": {
+        "settlement_duration_minutes_p25": 14.0,
+        "settlement_duration_minutes_p75": 23.0,
+        "sample_size": 52,
+        "confidence": "high",
+        "description": "Average L2 to L1 WETH settlement times for large amounts"
+      },
+      "300000-400000": {
+        "settlement_duration_minutes_p25": 24.0,
+        "settlement_duration_minutes_p75": 42.5,
+        "sample_size": 3,
+        "confidence": "medium",
+        "description": "Average L2 to L1 WETH settlement times for very large amounts"
+      },
+      "400000-500000": {
+        "settlement_duration_minutes_p25": 13.0,
+        "settlement_duration_minutes_p75": 26.0,
+        "sample_size": 5,
+        "confidence": "low",
+        "description": "Limited L2 to L1 WETH data for this amount range"
+      },
+      "1000000+": {
+        "settlement_duration_minutes_p25": 57.0,
+        "settlement_duration_minutes_p75": 184.0,
+        "sample_size": 13,
+        "confidence": "medium",
+        "description": "Average L2 to L1 WETH settlement times for very large amounts"
+      }
+    },
+    "USDT": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 13.5,
+        "settlement_duration_minutes_p75": 81.25,
+        "sample_size": 16,
+        "confidence": "medium",
+        "description": "Average L2 to L1 USDT settlement times based on optimism->ethereum route"
+      }
+    },
+    "cbBTC": {
+      "100000-300000": {
+        "settlement_duration_minutes_p25": 33.5,
+        "settlement_duration_minutes_p75": 171.0,
+        "sample_size": 19,
+        "confidence": "medium",
+        "description": "Average L2 to L1 cbBTC settlement times based on base->ethereum route"
+      }
+    },
+    "xPufETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 2.0,
+        "settlement_duration_minutes_p75": 2.0,
+        "sample_size": 13,
+        "confidence": "medium",
+        "description": "Average L2 to L1 xPufETH settlement times based on base->ethereum route"
+      }
+    }
+  },
+  "L2_to_L2": {
+    "USDC": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 4.0,
+        "settlement_duration_minutes_p75": 5.5,
+        "sample_size": 3,
+        "confidence": "low",
+        "description": "Average L2 to L2 USDC settlement times based on zksync->base route"
+      }
+    },
+    "WETH": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 5.0,
+        "settlement_duration_minutes_p75": 11.5,
+        "sample_size": 75,
+        "confidence": "high",
+        "description": "Average L2 to L2 WETH settlement times based on arbitrum->base, base->arbitrum, optimism->base routes"
+      },
+      "50000-100000": {
+        "settlement_duration_minutes_p25": 7.5,
+        "settlement_duration_minutes_p75": 18.25,
+        "sample_size": 16,
+        "confidence": "medium",
+        "description": "Average L2 to L2 WETH settlement times for medium amounts"
+      },
+      "100000-300000": {
+        "settlement_duration_minutes_p25": 10.0,
+        "settlement_duration_minutes_p75": 22.0,
+        "sample_size": 21,
+        "confidence": "medium",
+        "description": "Average L2 to L2 WETH settlement times for large amounts"
+      }
+    },
+    "USDT": {
+      "0-50000": {
+        "settlement_duration_minutes_p25": 127.0,
+        "settlement_duration_minutes_p75": 229.0,
+        "sample_size": 3,
+        "confidence": "low",
+        "description": "Average L2 to L2 USDT settlement times based on optimism->base route"
+      }
+    }
+  },
+  "metadata": {
+    "description": "Asset-specific average settlement times by route category for fallback estimates",
+    "calculation_method": "Asset-specific weighted averages based on sample sizes from existing data",
+    "last_updated": "2025-01-27",
+    "data_source": "settlement_duration_percentiles_with_asset.json",
+    "note": "Asset-specific data is preferred over these category averages. Use these only when no asset-specific data is available.",
+    "structure": "route_category -> asset_symbol -> amount_range -> settlement_data"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "L1": [
+    "ethereum",
+    "bnb",
+    "solana",
+    "avalanche_c",
+    "polygon",
+    "ronin"
+  ],
+  "L2": [
+    "arbitrum",
+    "base",
+    "optimism",
+    "linea",
+    "zksync",
+    "unichain",
+    "zircuit",
+    "blast",
+    "berachain",
+    "ink"
+  ],
+  "metadata": {
+    "description": "Chain classification for settlement time fallback estimates",
+    "version": "1.0",
+    "last_updated": "2025-01-27"
+  }
+}
