@@ -1,0 +1,2278 @@
+{
+  "42161": {
+    "43114": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 103.5,
+          "settlement_duration_minutes_p50": 203.0,
+          "settlement_duration_minutes_p75": 321.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.25,
+          "settlement_duration_minutes_p50": 6.5,
+          "settlement_duration_minutes_p75": 41.5,
+          "sample_size": 10
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 47.0,
+          "sample_size": 11
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 26.5,
+          "sample_size": 18
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 25
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p50": 32.0,
+          "settlement_duration_minutes_p75": 111.0,
+          "sample_size": 23
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 22.5,
+          "sample_size": 3
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 63.5,
+          "settlement_duration_minutes_p50": 131.5,
+          "settlement_duration_minutes_p75": 216.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "57073": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "59144": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 20.5,
+          "sample_size": 7
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 47.0,
+          "sample_size": 8
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.75,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 19.75,
+          "sample_size": 4
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.25,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 12.5,
+          "sample_size": 6
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 59.0,
+          "settlement_duration_minutes_p50": 60.0,
+          "settlement_duration_minutes_p75": 225.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.25,
+          "sample_size": 8
+        }
+      }
+    },
+    "534352": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "1399811149": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 26.5,
+          "settlement_duration_minutes_p50": 152.0,
+          "settlement_duration_minutes_p75": 182.0,
+          "sample_size": 7
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.25,
+          "settlement_duration_minutes_p50": 37.0,
+          "settlement_duration_minutes_p75": 60.5,
+          "sample_size": 6
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 110.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.75,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "48900": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 90.5,
+          "sample_size": 7
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 33.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.25,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 22
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 30
+        }
+      }
+    }
+  },
+  "43114": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 15.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 3.5,
+          "sample_size": 4
+        }
+      }
+    }
+  },
+  "8453": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 166.0,
+          "settlement_duration_minutes_p50": 230.0,
+          "settlement_duration_minutes_p75": 243.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.5,
+          "settlement_duration_minutes_p50": 19.0,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 23
+        }
+      }
+    },
+    "43114": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 61.75,
+          "settlement_duration_minutes_p50": 360.0,
+          "settlement_duration_minutes_p75": 1010.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "80094": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 38.0,
+          "sample_size": 36
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 34
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p50": 65.0,
+          "settlement_duration_minutes_p75": 130.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 24.0,
+          "settlement_duration_minutes_p50": 27.0,
+          "settlement_duration_minutes_p75": 42.5,
+          "sample_size": 3
+        }
+      },
+      "0xab7216efe876c5163ebb1d05a1a6b63e00fb73d1d68ddf079460c106356fd162": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 101.0,
+          "settlement_duration_minutes_p50": 137.0,
+          "settlement_duration_minutes_p75": 176.0,
+          "sample_size": 15
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.25,
+          "settlement_duration_minutes_p50": 2.0,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 14
+        }
+      }
+    },
+    "57073": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 14
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.75,
+          "settlement_duration_minutes_p50": 5.5,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "59144": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 47.0,
+          "settlement_duration_minutes_p75": 2914.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 531.0,
+          "sample_size": 13
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 19.0,
+          "settlement_duration_minutes_p75": 38.0,
+          "sample_size": 11
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 45
+        }
+      }
+    },
+    "1399811149": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 3.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.25,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 67.75,
+          "sample_size": 10
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.5,
+          "settlement_duration_minutes_p50": 28.5,
+          "settlement_duration_minutes_p75": 47.75,
+          "sample_size": 10
+        }
+      }
+    },
+    "48900": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 1059.0,
+          "settlement_duration_minutes_p75": 2372.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 26.0,
+          "sample_size": 16
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 53
+        }
+      }
+    }
+  },
+  "80094": {
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p50": 14.0,
+          "settlement_duration_minutes_p75": 36.25,
+          "sample_size": 10
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 19.25,
+          "settlement_duration_minutes_p50": 23.5,
+          "settlement_duration_minutes_p75": 36.75,
+          "sample_size": 6
+        }
+      }
+    }
+  },
+  "81457": {
+    "8453": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 29.25,
+          "sample_size": 8
+        }
+      }
+    },
+    "1": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p50": 16.0,
+          "settlement_duration_minutes_p75": 28.0,
+          "sample_size": 5
+        }
+      }
+    }
+  },
+  "56": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.25,
+          "settlement_duration_minutes_p50": 9.5,
+          "settlement_duration_minutes_p75": 72.5,
+          "sample_size": 26
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 59.5,
+          "settlement_duration_minutes_p50": 89.0,
+          "settlement_duration_minutes_p75": 238.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 9.0,
+          "sample_size": 13
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 10.5,
+          "settlement_duration_minutes_p75": 23.25,
+          "sample_size": 26
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 19.0,
+          "sample_size": 32
+        }
+      }
+    },
+    "80094": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.75,
+          "settlement_duration_minutes_p50": 5.5,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "81457": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.75,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p50": 14.5,
+          "settlement_duration_minutes_p75": 170.0,
+          "sample_size": 4
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 21.0,
+          "settlement_duration_minutes_p50": 45.0,
+          "settlement_duration_minutes_p75": 82.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.0,
+          "settlement_duration_minutes_p50": 16.0,
+          "settlement_duration_minutes_p75": 21.25,
+          "sample_size": 100
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p50": 1.0,
+          "settlement_duration_minutes_p75": 1.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "59144": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 36.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "10": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 17.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "137": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 34.0,
+          "settlement_duration_minutes_p50": 90.0,
+          "settlement_duration_minutes_p75": 138.0,
+          "sample_size": 33
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "48900": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.5,
+          "settlement_duration_minutes_p50": 22.0,
+          "settlement_duration_minutes_p75": 168.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.25,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 6
+        }
+      }
+    }
+  },
+  "1": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 21
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.0,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 10.25,
+          "sample_size": 12
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.5,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 10.25,
+          "sample_size": 4
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 8.75,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 22.75,
+          "sample_size": 4
+        }
+      }
+    },
+    "43114": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 198.0,
+          "settlement_duration_minutes_p50": 360.0,
+          "settlement_duration_minutes_p75": 767.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 8.5,
+          "settlement_duration_minutes_p75": 9.75,
+          "sample_size": 10
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 44
+        }
+      },
+      "0xab7216efe876c5163ebb1d05a1a6b63e00fb73d1d68ddf079460c106356fd162": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 9.5,
+          "sample_size": 12
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "80094": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.75,
+          "settlement_duration_minutes_p50": 8.5,
+          "settlement_duration_minutes_p75": 10.25,
+          "sample_size": 8
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.75,
+          "settlement_duration_minutes_p50": 8.5,
+          "settlement_duration_minutes_p75": 9.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "81457": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.75,
+          "settlement_duration_minutes_p50": 9.5,
+          "settlement_duration_minutes_p75": 30.5,
+          "sample_size": 4
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p50": 47.0,
+          "settlement_duration_minutes_p75": 1065.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p50": 8.5,
+          "settlement_duration_minutes_p75": 105.0,
+          "sample_size": 4
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 57.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "57073": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 13
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "59144": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 353.5,
+          "settlement_duration_minutes_p50": 833.0,
+          "settlement_duration_minutes_p75": 4212.5,
+          "sample_size": 11
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.75,
+          "settlement_duration_minutes_p50": 10.5,
+          "settlement_duration_minutes_p75": 140.75,
+          "sample_size": 12
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 8.5,
+          "settlement_duration_minutes_p75": 9.75,
+          "sample_size": 6
+        }
+      }
+    },
+    "34443": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1030.0,
+          "settlement_duration_minutes_p50": 3628.0,
+          "settlement_duration_minutes_p75": 4245.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.75,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 487.0,
+          "sample_size": 4
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 17
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 18.25,
+          "settlement_duration_minutes_p50": 343.0,
+          "settlement_duration_minutes_p75": 839.5,
+          "sample_size": 4
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 6.5,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 8.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 310.0,
+          "sample_size": 3
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 49
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 262.0,
+          "settlement_duration_minutes_p50": 452.0,
+          "settlement_duration_minutes_p75": 462.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "2020": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 142.5,
+          "settlement_duration_minutes_p50": 770.0,
+          "settlement_duration_minutes_p75": 1218.0,
+          "sample_size": 11
+        }
+      }
+    },
+    "534352": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.75,
+          "settlement_duration_minutes_p50": 121.5,
+          "settlement_duration_minutes_p75": 1378.75,
+          "sample_size": 4
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 8.5,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.5,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 10.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "1399811149": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 16.5,
+          "settlement_duration_minutes_p50": 23.0,
+          "settlement_duration_minutes_p75": 267.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.5,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 25.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "146": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.5,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 2487.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "167000": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.75,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 8.75,
+          "sample_size": 4
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 28.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 9.25,
+          "sample_size": 8
+        }
+      }
+    },
+    "48900": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 922.0,
+          "settlement_duration_minutes_p50": 2727.0,
+          "settlement_duration_minutes_p75": 3040.0,
+          "sample_size": 13
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 256.0,
+          "settlement_duration_minutes_p75": 1943.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 12.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 291.5,
+          "sample_size": 71
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 139.0,
+          "settlement_duration_minutes_p50": 526.0,
+          "settlement_duration_minutes_p75": 924.25,
+          "sample_size": 6
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 8.0,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 8.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "57073": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 28.5,
+          "settlement_duration_minutes_p50": 53.0,
+          "settlement_duration_minutes_p75": 60.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 9.25,
+          "sample_size": 8
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.0,
+          "settlement_duration_minutes_p50": 18.0,
+          "settlement_duration_minutes_p75": 56.0,
+          "sample_size": 21
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.75,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 16.5,
+          "sample_size": 20
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p50": 15.5,
+          "settlement_duration_minutes_p75": 21.5,
+          "sample_size": 10
+        }
+      }
+    },
+    "146": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 183.0,
+          "settlement_duration_minutes_p50": 230.0,
+          "settlement_duration_minutes_p75": 254.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "59144": {
+    "42161": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 21.0,
+          "settlement_duration_minutes_p75": 26.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 9.0,
+          "settlement_duration_minutes_p75": 24.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "1": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.75,
+          "settlement_duration_minutes_p50": 28.0,
+          "settlement_duration_minutes_p75": 151.0,
+          "sample_size": 12
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 14.5,
+          "settlement_duration_minutes_p75": 17.0,
+          "sample_size": 38
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 27.0,
+          "sample_size": 17
+        }
+      }
+    },
+    "324": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 26.0,
+          "settlement_duration_minutes_p50": 27.0,
+          "settlement_duration_minutes_p75": 58.0,
+          "sample_size": 5
+        }
+      }
+    }
+  },
+  "34443": {
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "10": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 82.5,
+          "settlement_duration_minutes_p50": 124.0,
+          "settlement_duration_minutes_p75": 150.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.25,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 6
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 55.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 10.0,
+          "sample_size": 118
+        }
+      }
+    },
+    "81457": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 9
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.5,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 3
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 12.0,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 69.0,
+          "sample_size": 13
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p50": 19.0,
+          "settlement_duration_minutes_p75": 27.5,
+          "sample_size": 4
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 162.0,
+          "settlement_duration_minutes_p50": 202.0,
+          "settlement_duration_minutes_p75": 295.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "57073": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "59144": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 14
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.5,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 70.0,
+          "sample_size": 7
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.25,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 7.75,
+          "sample_size": 10
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "534352": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "146": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 12.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 87.0,
+          "settlement_duration_minutes_p50": 171.0,
+          "settlement_duration_minutes_p75": 1022.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 63.0,
+          "sample_size": 5
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 76.5,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 14
+        }
+      }
+    }
+  },
+  "137": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 20.25,
+          "sample_size": 8
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 11.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 6.75,
+          "sample_size": 10
+        }
+      }
+    },
+    "43114": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.5,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 21.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 15.5,
+          "sample_size": 147
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 7
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 30
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.5,
+          "settlement_duration_minutes_p50": 18.0,
+          "settlement_duration_minutes_p75": 61.0,
+          "sample_size": 3
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.75,
+          "settlement_duration_minutes_p50": 16.5,
+          "settlement_duration_minutes_p75": 102.0,
+          "sample_size": 64
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.75,
+          "settlement_duration_minutes_p50": 19.5,
+          "settlement_duration_minutes_p75": 63.25,
+          "sample_size": 20
+        }
+      }
+    },
+    "57073": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 27.0,
+          "sample_size": 7
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 91.0,
+          "settlement_duration_minutes_p50": 177.0,
+          "settlement_duration_minutes_p75": 184.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 22.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "534352": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "130": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 3.5,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 5.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      }
+    }
+  },
+  "534352": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 11.5,
+          "settlement_duration_minutes_p50": 19.0,
+          "settlement_duration_minutes_p75": 102.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 27
+        }
+      }
+    },
+    "8453": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 9.25,
+          "settlement_duration_minutes_p50": 13.0,
+          "settlement_duration_minutes_p75": 27.5,
+          "sample_size": 8
+        }
+      }
+    },
+    "1": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 13.5,
+          "settlement_duration_minutes_p50": 32.0,
+          "settlement_duration_minutes_p75": 75.0,
+          "sample_size": 7
+        }
+      }
+    },
+    "10": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 7.0,
+          "settlement_duration_minutes_p50": 12.0,
+          "settlement_duration_minutes_p75": 17.0,
+          "sample_size": 14
+        }
+      }
+    },
+    "137": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 10.5,
+          "settlement_duration_minutes_p50": 15.0,
+          "settlement_duration_minutes_p75": 29.5,
+          "sample_size": 23
+        }
+      }
+    }
+  },
+  "1399811149": {
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 103.0,
+          "sample_size": 9
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 0.0,
+          "settlement_duration_minutes_p50": 0.5,
+          "settlement_duration_minutes_p75": 1.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 10.0,
+          "settlement_duration_minutes_p75": 17.0,
+          "sample_size": 7
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p50": 1.0,
+          "settlement_duration_minutes_p75": 2.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "324": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.75,
+          "sample_size": 4
+        }
+      }
+    }
+  },
+  "146": {
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 338.0,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "167000": {
+    "1": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 23.0,
+          "settlement_duration_minutes_p50": 25.0,
+          "settlement_duration_minutes_p75": 25.0,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "130": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 264.0,
+          "sample_size": 7
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 2.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 4
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.75,
+          "sample_size": 6
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 7
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 5
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 7.0,
+          "sample_size": 3
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 16.5,
+          "settlement_duration_minutes_p50": 19.5,
+          "settlement_duration_minutes_p75": 48.75,
+          "sample_size": 6
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 15.0,
+          "settlement_duration_minutes_p50": 17.0,
+          "settlement_duration_minutes_p75": 47.0,
+          "sample_size": 9
+        },
+        "1000000+": {
+          "settlement_duration_minutes_p25": 40.75,
+          "settlement_duration_minutes_p50": 63.0,
+          "settlement_duration_minutes_p75": 85.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "57073": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.75,
+          "settlement_duration_minutes_p50": 2.0,
+          "settlement_duration_minutes_p75": 3.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "59144": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "10": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.0,
+          "settlement_duration_minutes_p50": 2.0,
+          "settlement_duration_minutes_p75": 3.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.75,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 4
+        }
+      }
+    },
+    "324": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "48900": {
+    "42161": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 30.0,
+          "settlement_duration_minutes_p75": 712.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.75,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 4
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p50": 2.0,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 9
+        }
+      }
+    },
+    "56": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.25,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 5.75,
+          "sample_size": 10
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p50": 1.5,
+          "settlement_duration_minutes_p75": 3.25,
+          "sample_size": 4
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p50": 16.0,
+          "settlement_duration_minutes_p75": 37.0,
+          "sample_size": 5
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 197.75,
+          "settlement_duration_minutes_p50": 231.0,
+          "settlement_duration_minutes_p75": 234.75,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.0,
+          "settlement_duration_minutes_p50": 12.0,
+          "settlement_duration_minutes_p75": 13.0,
+          "sample_size": 5
+        }
+      },
+      "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 1.0,
+          "settlement_duration_minutes_p50": 1.0,
+          "settlement_duration_minutes_p75": 2.0,
+          "sample_size": 49
+        }
+      }
+    },
+    "137": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.5,
+          "settlement_duration_minutes_p50": 535.0,
+          "settlement_duration_minutes_p75": 1064.0,
+          "sample_size": 4
+        }
+      }
+    },
+    "728126428": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 466.0,
+          "settlement_duration_minutes_p50": 875.0,
+          "settlement_duration_minutes_p75": 4755.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "324": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 2784.0,
+          "sample_size": 5
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.5,
+          "settlement_duration_minutes_p50": 3.0,
+          "settlement_duration_minutes_p75": 4.5,
+          "sample_size": 3
+        }
+      }
+    }
+  },
+  "324": {
+    "42161": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 11.0,
+          "settlement_duration_minutes_p75": 24.0,
+          "sample_size": 25
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 12.0,
+          "sample_size": 61
+        }
+      }
+    },
+    "8453": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 7
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 6.25,
+          "settlement_duration_minutes_p50": 11.5,
+          "settlement_duration_minutes_p75": 20.0,
+          "sample_size": 50
+        }
+      }
+    },
+    "80094": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.0,
+          "settlement_duration_minutes_p75": 4.0,
+          "sample_size": 3
+        }
+      }
+    },
+    "81457": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.5,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.5,
+          "sample_size": 3
+        }
+      }
+    },
+    "56": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 51.25,
+          "sample_size": 10
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 4.5,
+          "settlement_duration_minutes_p75": 6.0,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 8.5,
+          "sample_size": 8
+        }
+      }
+    },
+    "1": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 14.0,
+          "settlement_duration_minutes_p50": 16.0,
+          "settlement_duration_minutes_p75": 23.0,
+          "sample_size": 25
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 16.0,
+          "settlement_duration_minutes_p50": 20.0,
+          "settlement_duration_minutes_p75": 26.0,
+          "sample_size": 69
+        }
+      }
+    },
+    "59144": {
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 6.25,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 9.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "10": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.5,
+          "settlement_duration_minutes_p50": 6.0,
+          "settlement_duration_minutes_p75": 7.75,
+          "sample_size": 6
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 3.0,
+          "settlement_duration_minutes_p50": 7.0,
+          "settlement_duration_minutes_p75": 16.0,
+          "sample_size": 19
+        }
+      }
+    },
+    "137": {
+      "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 2.75,
+          "settlement_duration_minutes_p50": 3.5,
+          "settlement_duration_minutes_p75": 14.5,
+          "sample_size": 4
+        }
+      },
+      "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.75,
+          "settlement_duration_minutes_p50": 8.0,
+          "settlement_duration_minutes_p75": 54.5,
+          "sample_size": 4
+        }
+      },
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 5.0,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 5.0,
+          "sample_size": 5
+        }
+      }
+    },
+    "130": {
+      "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8": {
+        "0-50000": {
+          "settlement_duration_minutes_p25": 4.25,
+          "settlement_duration_minutes_p50": 5.0,
+          "settlement_duration_minutes_p75": 36.0,
+          "sample_size": 10
+        }
+      }
+    }
+  }
+}

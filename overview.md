@@ -23,12 +23,10 @@ Include estimated settlement time in the quote endpoint.
 https://everclear.metabaseapp.com/question/1126-settlement-time-eta-api 
 
 **Route / Token Settlement time JSON lookup below**
-
-[settlement_duration_percentiles.json](attachment:a87aff8f-281a-4125-b577-85fd915ef256:settlement_duration_percentiles.json)
+settlement_duration_percentiles_with_asset.json 
 
 **Example implementation:**
-
-[lookup_example.jsx](attachment:014f3abc-9fa6-4d55-9176-463a9a60318f:lookup_example.jsx)
+asset_specific_lookup_example.js
 
 **Data details:**
 

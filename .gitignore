@@ -354,6 +354,7 @@ coverage/
 # Data files (exclude large data files but keep project-specific ones)
 *.csv
 *.json
+!settlement_times.json
 !package.json
 !package-lock.json
 !tsconfig.json
